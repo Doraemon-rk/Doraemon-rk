@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="400" height="400" src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=0&uuid=2a84993d-0a5c-4e2f-8e89-502f70c47841&query=Female+Programmer">
+<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdesign-bootcamp%2Fhow-to-design-an-attractive-github-profile-readme-3618d6c53783&psig=AOvVaw0jF6Kwsgh-GoX0rovVTJQv&ust=1749360375262000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCw36_J3o0DFQAAAAAdAAAAABBI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
