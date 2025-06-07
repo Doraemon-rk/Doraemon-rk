@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="400" height="400" src="https://www.google.com/imgres?q=coder%20girl%20programmer&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg%3Fsemt%3Dais_items_boosted%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-programmer&docid=5HZJQlo6vWlLZM&tbnid=QpvIJnPez8s3qM&vet=12ahUKEwi4_5Pwxt6NAxVY4jgGHQbFKnUQM3oECBcQAA..i&w=740&h=740&hcb=2&ved=2ahUKEwi4_5Pwxt6NAxVY4jgGHQbFKnUQM3oECBcQAA">
+<img align="right" width="400" height="400" src="https://www.google.com/imgres?q=cartoon%20github%20girl%20coding%20gif&imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&imgrefurl=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=9kVPrU54h49xHM&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwir7NT3xd6NAxULyzgGHdDGFEYQM3oECB0QAA..i&w=640&h=640&hcb=2&ved=2ahUKEwir7NT3xd6NAxULyzgGHdDGFEYQM3oECB0QAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
