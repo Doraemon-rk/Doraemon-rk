@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="640" height="480" src="https:https://www.google.com/imgres?q=animated%20coding%20girl%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2Fw3APLkMuTX0AAAAM%2Fcomputer-work.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&docid=Xi5VNzIvN80P-M&tbnid=tsOnefSNYqyGmM&vet=12ahUKEwiUwvGq4d6NAxVnwTgGHZG1Jl4QM3oECGwQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwiUwvGq4d6NAxVnwTgGHZG1Jl4QM3oECGwQAA.gif">
+<img align="right" width="400" height="400" src="https:https://www.google.com/imgres?q=animated%20coding%20girl%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2Fw3APLkMuTX0AAAAM%2Fcomputer-work.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&docid=Xi5VNzIvN80P-M&tbnid=tsOnefSNYqyGmM&vet=12ahUKEwiUwvGq4d6NAxVnwTgGHZG1Jl4QM3oECGwQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwiUwvGq4d6NAxVnwTgGHZG1Jl4QM3oECGwQAA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
 - 🔭 I’m currently working on **C++ Basics**
