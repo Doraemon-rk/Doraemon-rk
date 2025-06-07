@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
 <img align="right" width="400" height="400" src="https://tenor.com/view/working-headphones-focus-gif-14663604.gif">
