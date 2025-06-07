@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="640" height="480" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-anime-gif-24565564&psig=AOvVaw1LC8j5sH061Al1aShaFiDK&ust=1749362138293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCiqfbP3o0DFQAAAAAdAAAAABAl">
+<img align="right" width="640" height="480" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0eXTudBde5g9sDC4YN0iTI&ust=1749366561079000&source=Gif&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC88q3g3o0DFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
 - 🔭 I’m currently working on **C++ Basics**
