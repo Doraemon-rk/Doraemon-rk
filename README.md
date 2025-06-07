@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="400" height="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
+<img align="right" width="400" height="400" src="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
 - 🔭 I’m currently working on **C++ Basics**
