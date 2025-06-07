@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-code-wallpaper-uqtti&psig=AOvVaw0xIWzHkzBSD5rr9w2NBmCv&ust=1749359547266000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD75Z7G3o0DFQAAAAAdAAAAABAE">
+<img align="right" width="400" height="400" src="https://www.google.com/imgres?q=coder%20girl%20programmer&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg%3Fsemt%3Dais_items_boosted%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-programmer&docid=5HZJQlo6vWlLZM&tbnid=QpvIJnPez8s3qM&vet=12ahUKEwi4_5Pwxt6NAxVY4jgGHQbFKnUQM3oECBcQAA..i&w=740&h=740&hcb=2&ved=2ahUKEwi4_5Pwxt6NAxVY4jgGHQbFKnUQM3oECBcQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
