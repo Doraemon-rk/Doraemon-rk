@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-code-wallpaper-uqtti&psig=AOvVaw0xIWzHkzBSD5rr9w2NBmCv&ust=1749359547266000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD75Z7G3o0DFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
 
