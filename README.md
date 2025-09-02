@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
-<p align="center">
+<p align="center"https://www.freepik.com/free-ai-image/cyber-security-expert-working-with-technology-neon-lights_236256890.htm#fromView=keyword&page=1&position=16&uuid=333b8d57-daf7-4f2e-bd1c-16e2e86f6095&query=Coding+gif>
   
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTI2NzEsIm5iZiI6MTc1MzE1MjM3MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAyNDYxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5MGVkN2U1YWM0ZmE1YjRhM2JkMjQ4YmI1ZDdmMTkxNzEyYzA0ODY1ZDBkMGI0YTJiNjVkZTFjMDMwNDU4NmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2OXs9ei5PKp0NuTBQ4iVyNkRXQ0Jb9hhQC0xr6_RB_o" alt="Holopin Banner" style="width:85%; max-width:1000px;" />
 <h3 align="center">A passionate programmer </h3>
