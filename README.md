@@ -1,7 +1,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Arpita Patwa</h1>
 <p align="center>
-<img src="https://media1.tenor.com/m/E73aHdNnj2AAAAAC/yoriko-nikaidou.gif" />
+<img src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif" />
+  
 <h3 align="center">A passionate programmer </h3>
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/7b/c9/79/7bc97918ccb4f3f4d3ce7db15848733c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doraemon-rk&label=Profile%20views&color=0e75b6&style=flat" alt="doraemon-rk" /> </p>
